@@ -12,4 +12,6 @@
 | major |Mechanical Engineer|
 | age   |       23          |
 | city  |        Amman      |
+
+
 https://www.google.jo/url?sa=i&url=https%3A%2F%2Fwww.techtello.com%2Ffixed-mindset-vs-growth-mindset%2F&psig=AOvVaw2-TrSoc5pMvxl21J9EIIIe&ust=1608650145364000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDhpPWu3-0CFQAAAAAdAAAAABAD
