@@ -6,6 +6,8 @@
 - [ ] Hard working
 - [ ] Learn from other success
 - [ ] Try to solve Problems
+
+
 ### Follwe me on [My GitHub profile]( https://github.com/mzool)
 
 ### **Table of contents**:
@@ -17,8 +19,9 @@
   Duration|one week
   course link|[code102d17]( https://canvas.instructure.com/courses/2480979 )
 
+
 ### About me:
-### I am Mohammad Al-Zo'ol, I am 23, I stydied mechanical engineering at Al Balqa university, I graduated last yaer, I never work in my field but I wish to, I am here becuase I always liked every thing about computers. 
+## I am Mohammad Al-Zo'ol, I am 23, I stydied mechanical engineering at Al Balqa university, I graduated last yaer, I never work in my field but I wish to, I am here becuase I always liked every thing about computers. 
 
 ## Her a website that have a useful information for ***Growth mindset***: 
 https://www.google.jo/url?sa=i&url=https%3A%2F%2Fwww.techtello.com%2Ffixed-mindset-vs-growth-mindset%2F&psig=AOvVaw2-TrSoc5pMvxl21J9EIIIe&ust=1608650145364000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDhpPWu3-0CFQAAAAAdAAAAABAD
