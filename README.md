@@ -10,14 +10,14 @@
 
 ### **Table of contents**:
 
- |name|details|
- |----|-------|
- |course|code102d17|
- |started date|20/12/2020|
- |Duration|one week|
+ |name|details| 
+ |----|-------| 
+ |course|code102d17| 
+ |started date|20/12/2020| 
+ |Duration|one week| 
  |city|Amman|
- |course link|[code102d17]( https://canvas.instructure.com/courses/2480979 )|
- 
+ |course link|[code102d17]( https://canvas.instructure.com/courses/2480979 )| 
+
 ### About me:
 ### I am Mohammad Al-Zo'ol, I am 23, I stydied mechanical engineering at Al Balqa university, I graduated last yaer, I never work in my field but I wish to, I am here becuase I always liked every thing about computers. 
 
