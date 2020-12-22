@@ -16,7 +16,7 @@
  started date|20/12/2020 
   Duration|one week
   course link|[code102d17]( https://canvas.instructure.com/courses/2480979 )
-   reading| [read one]( )
+   reading| [read one](https://github.com/mzool/read-note/blob/main/read%201%20.md )
 
 ### Follwe me on [My GitHub profile]( https://github.com/mzool)
 
