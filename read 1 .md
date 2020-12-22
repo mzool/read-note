@@ -6,7 +6,7 @@
 # 5- ~~crossed out~~ make the sentence crossed out.
 # 6- You can use # from one to six in your heading, one is the largest.
 # 7- To quote a text use > before it.
-# 8- To make a link use [ link name](url).
+# 8- To make a link use "[ link name](url)".
 # 9- To make a list precede your text by - or *.
 # 10-Nested list made visually.
 # 11-To make a task list 
