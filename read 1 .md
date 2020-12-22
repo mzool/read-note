@@ -3,7 +3,7 @@
 # 2- We can use markdown to make lists, headers, links, images, etc....
 # 3- Type @name of person to mention hem or her.
 # 4- Make table by using hyphens for first row and pipe for column.
-# 5- ~~any sentence~~ make the sentence crossed out.
+# 5- ~~crossed out~~ make the sentence crossed out.
 # 6- You can use # from one to six in your heading, one is the largest.
 # 7- To quote a text use > before it.
 # 8- To make a link use [ link name](url).
