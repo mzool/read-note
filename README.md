@@ -8,6 +8,8 @@
  read 4| [click](https://github.com/mzool/read-note/blob/main/read4.md)
 read 6a| [click](   https://github.com/mzool/read-note/blob/main/read6a.md   )
 read6b| [click](  https://github.com/mzool/read-note/blob/main/read6b.md   )
+read 7 | [click](https://github.com/mzool/read-note/blob/main/read7.md)
+read 8 | [click](https://github.com/mzool/read-note/blob/main/read8.md)
 
 ====
 
