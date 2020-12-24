@@ -1,7 +1,7 @@
 # Comparisons operators that give boolean results:
-+ ## == equal to.
++ ## == equal to, compares the value.
 + ## !== not equal to.
-+ ## === strict equal to.
++ ## === strict equal to, compares the value and the type.
 + ### !=== strict not equal to.
 + ## > greater
 + ## < less than
@@ -16,4 +16,5 @@
 # (If else) statement give a two side of code, if "if" condition is false then "else" condition will run.
 # While statement does the thing as long as the condition is true.
 # Loops: loops check condition, if it return true, then the code block will run.
-# For loop: using for loops when the 
+# For loop: using for loops when the we know how many time the code will run.
+# While loop: using when we want to use the loop when we do not know how many time the code will run, so it is like still looping till the all elements of the condition.
