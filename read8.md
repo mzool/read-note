@@ -9,7 +9,7 @@
 + ## <= less than or equal
 # Comparison can be between two operands or between two operators.
 # Logical operators allow us to compare the results of comparison operators:
-## "&&" logical and: to give true both of the expressions should be true if any one false then it give false.
++ ## "&&" logical and: to give true both of the expressions should be true if any one false then it give false.
 + ## "||" logical or: it give always true exept when the both expressions give false then it give false.
 + ## "!" not: it take a single boolean value and convert it to the opposite value. \
 # If statement: chech the condition inside and if it gives true the subsequent code block work.
