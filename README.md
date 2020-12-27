@@ -6,6 +6,7 @@
  Growth mindset| [click](https://github.com/mzool/read-note/blob/main/Growth%20mindset.md)
  read one | [click](https://github.com/mzool/read-note/blob/main/read%201%20.md)
  read 4| [click](https://github.com/mzool/read-note/blob/main/read4.md)
+ read 5 | [click](https://github.com/mzool/read-note/blob/main/read%205.md)
 read 6a| [click](   https://github.com/mzool/read-note/blob/main/read6a.md   )
 read6b| [click](  https://github.com/mzool/read-note/blob/main/read6b.md   )
 read 7 | [click](https://github.com/mzool/read-note/blob/main/read7.md)
